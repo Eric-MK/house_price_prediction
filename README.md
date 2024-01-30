@@ -27,3 +27,9 @@ The dataset contains data about different housing blocks in California, includin
 * Latitude: block latitude
 * Longitude: block longitude
 * **Target variable:** Median house value for California districts
+
+### Usage
+The project is contained in a Jupyter Notebook named *housing_price_prediction.ipynb*. This notebook includes the entire process: loading the dataset, preprocessing data, splitting it into training and testing sets, training a linear regression model, and evaluating its performance.
+
+
+
