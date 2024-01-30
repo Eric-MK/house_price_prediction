@@ -4,9 +4,11 @@ The project focuses on predicting housing prices in California using a linear re
 
 ### Dependencies
 * [Python](https://www.python.org/)
+* [Jupyter Notebook](https://jupyter.org/)
 * [Pandas](https://pandas.pydata.org/)
 * [NumPy](https://numpy.org/)
 * [scikit-learn](https://scikit-learn.org/)
+
  
 
 ### Dataset
