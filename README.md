@@ -1,6 +1,14 @@
 # California Housing Price Prediction
 ### Overview
 The project focuses on predicting housing prices in California using a linear regression model. The dataset used is the California Housing dataset, which includes features like median income, house age, average number of rooms and bedrooms, population, and location coordinates (latitude and longitude).
+
+### Dependencies
+* [Python](https://www.python.org/)
+* [Pandas](https://pandas.pydata.org/)
+* [NumPy](https://numpy.org/)
+* [scikit-learn](https://scikit-learn.org/)
+ 
+
 ### Dataset
 The California Housing dataset is a well-known dataset used in machine learning and statistics for predicting housing prices. In this project, the dataset is accessed and downloaded through the scikit-learn library, a Python library widely used for machine learning.
 
@@ -16,4 +24,4 @@ The dataset contains data about different housing blocks in California, includin
 * AveOccup: average number of household members
 * Latitude: block latitude
 * Longitude: block longitude
-* Target variable: Median house value for California districts
+* **Target variable:** Median house value for California districts
