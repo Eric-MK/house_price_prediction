@@ -1,6 +1,6 @@
 # California Housing Price Prediction
 ### Overview
-The project focuses on predicting housing prices in California using a linear regression model. The dataset used is the California Housing dataset, which includes features like median income, house age, average number of rooms and bedrooms, population, and location coordinates (latitude and longitude).
+The project focuses on predicting housing prices in California using a **linear regression model.** The dataset used is the California Housing dataset, which includes features like median income, house age, average number of rooms and bedrooms, population, and location coordinates (latitude and longitude).
 
 ### Dependencies
 * [Python](https://www.python.org/)
